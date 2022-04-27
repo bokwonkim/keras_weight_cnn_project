@@ -21,3 +21,6 @@ npy 파일 필요!!(참조 2. npy file)
 - Test
 모델 파일 필요!!
 명령어 : python test.py
+
+궁금한거 있으시면 이메일로 연락주세요
+dkdn005@naver.com
